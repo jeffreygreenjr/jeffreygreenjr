@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 #### Languages and Tools:
-<img width="100" src="https://user-images.githubusercontent.com/102068506/175063380-1aeb68ff-b67e-4f23-8852-49f9e1f26066.png">
+<img width="50" src="https://user-images.githubusercontent.com/102068506/175063380-1aeb68ff-b67e-4f23-8852-49f9e1f26066.png">
 <!-- 
 ![image](https://user-images.githubusercontent.com/102068506/175063380-1aeb68ff-b67e-4f23-8852-49f9e1f26066.png)
 ![image](https://user-images.githubusercontent.com/102068506/175063433-b3d617ed-f131-4245-897e-ed29a1b3491e.png)
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/102068506/175064182-3386647a-5873-4fa5-a4bb-3c79759f9b87.png)
 ![image](https://user-images.githubusercontent.com/102068506/175064231-85d30200-9ea2-4fae-85f1-c10082b66bb7.png)
 ![image](https://user-images.githubusercontent.com/102068506/175064297-3ddfdc13-bb52-44da-b267-08baa7b50946.png)
- --> -->
+ -->
 
 
 
