@@ -1,4 +1,4 @@
-# Hello world, my name is Jeffrey Green 👋
+# <h1 align="center">Hello world, my name is Jeffrey Green 👋</h1>
 
 ## Explore my passion of software engineering/web development. Let's collaborate! 😄
 
