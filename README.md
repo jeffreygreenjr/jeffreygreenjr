@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
 #### Languages and Tools:
+
 ![image](https://user-images.githubusercontent.com/102068506/175063380-1aeb68ff-b67e-4f23-8852-49f9e1f26066.png)
 ![image](https://user-images.githubusercontent.com/102068506/175063433-b3d617ed-f131-4245-897e-ed29a1b3491e.png)
 ![image](https://user-images.githubusercontent.com/102068506/175063460-68d62cb3-30d3-4055-ae13-2b958a08c9c5.png)
