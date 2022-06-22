@@ -1,6 +1,6 @@
 # <h1 align="center">Hello world, my name is Jeffrey Green 👋</h1>
 
-## Explore my passion of software engineering/web development. Let's collaborate! 😄
+## <h2 align="center">Explore my passion of software engineering/web development. Let's collaborate! 😄</h2>
 
 <!--
 **jeffreygreenjr/jeffreygreenjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
