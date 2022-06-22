@@ -1,6 +1,6 @@
-### Hello world, my name is Jeffrey Green 👋
+# Hello world, my name is Jeffrey Green 👋
 
-#### 
+## 
 Explore my passion of software engineering/web development. Let's collaborate! 😄
 <!--
 **jeffreygreenjr/jeffreygreenjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-##### Languages and Tools:
+#### Languages and Tools:
 ![image](https://user-images.githubusercontent.com/102068506/175063380-1aeb68ff-b67e-4f23-8852-49f9e1f26066.png)
 ![image](https://user-images.githubusercontent.com/102068506/175063433-b3d617ed-f131-4245-897e-ed29a1b3491e.png)
 ![image](https://user-images.githubusercontent.com/102068506/175063460-68d62cb3-30d3-4055-ae13-2b958a08c9c5.png)
