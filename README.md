@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 -->
 
 #### Languages and Tools:
-<img width="50" src="https://user-images.githubusercontent.com/102068506/175063380-1aeb68ff-b67e-4f23-8852-49f9e1f26066.png" alt="html">
-<img width="50" src="https://user-images.githubusercontent.com/102068506/175063433-b3d617ed-f131-4245-897e-ed29a1b3491e.png" alt="css">
+<img width="50" src="https://user-images.githubusercontent.com/102068506/175063380-1aeb68ff-b67e-4f23-8852-49f9e1f26066.png" alt="html"><img width="50" src="https://user-images.githubusercontent.com/102068506/175063433-b3d617ed-f131-4245-897e-ed29a1b3491e.png" alt="css">
+
 <img width="50" src="https://user-images.githubusercontent.com/102068506/175063460-68d62cb3-30d3-4055-ae13-2b958a08c9c5.png" alt="javascript">
 <img width="50" src="https://user-images.githubusercontent.com/102068506/175063835-3a460ff7-ace7-45a9-8c6b-2cf8040b26f4.png" alt="sass">
 <img width="50" src="https://user-images.githubusercontent.com/102068506/175063683-cda84c1e-eb40-4e0c-9a3b-491570298444.png" alt="figma">
