@@ -1,7 +1,7 @@
 # <h1 align="center">Hello world, my name is Jeffrey Green 👋</h1>
 
 <h3 align="center">
- Explore my passion of software engineering/web development.
+ Explore my passion of software engineering, web development, and data engineering.
  </h3>
  <h3 align="center">
  Let's collaborate! 😄
